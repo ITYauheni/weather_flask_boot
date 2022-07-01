@@ -1,2 +1,4 @@
 .idea/
 venv/
+telegram_bot_token.txt
+webhook_for_telegram.txt

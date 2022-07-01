@@ -1,5 +1,5 @@
 .idea/
 venv/
 app/__pycache__/
-telegram_bot_token.txt
+tokens.json
 webhook_for_telegram.txt
